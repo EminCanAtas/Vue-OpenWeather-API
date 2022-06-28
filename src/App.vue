@@ -9,16 +9,22 @@
 </template>
 
 <style>
+body{
+  background-image: url("../public/img/wallpaper4k.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #ffffff;
 }
 
 #nav {
-  padding: 30px;
+  padding: 15px;
 }
 
 #nav a {
